@@ -1,0 +1,3 @@
+resources:
+https://colab.research.google.com/drive/1jv8N8xRqHdFxUu2ClVOTtjTV0P9eoGyt#scrollTo=IO4fOzwY-9dn
+https://www.kaggle.com/tigerli1997/a-b-test-on-e-commerce-website
